@@ -1,1 +1,1 @@
-# NN-from-zero-to-hero-Andrej-
+# NN-from-zero-to-hero-Andrej
